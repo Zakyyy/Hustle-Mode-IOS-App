@@ -12,6 +12,7 @@
 		043617A22018C353008CE5EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 043617A02018C353008CE5EF /* Main.storyboard */; };
 		043617A42018C353008CE5EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 043617A32018C353008CE5EF /* Assets.xcassets */; };
 		043617A72018C353008CE5EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 043617A52018C353008CE5EF /* LaunchScreen.storyboard */; };
+		04B98F6E2018E0F600555E27 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 04B98F6D2018E0F600555E27 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		043617A32018C353008CE5EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		043617A62018C353008CE5EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		043617A82018C353008CE5EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04B98F6D2018E0F600555E27 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "../../../../../Desktop/Courses/Udemy - iOS 11 and Swift 4 - From Beginner to Paid Professional/01-getting-started-with-xcode-9-ios-11/attached_files/005-app-hustle-your-first-ios-11-app/Assets/hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		0436179B2018C353008CE5EF /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				04B98F6D2018E0F600555E27 /* hustle-on.wav */,
 				0436179C2018C353008CE5EF /* AppDelegate.swift */,
 				0436179E2018C353008CE5EF /* ViewController.swift */,
 				043617A02018C353008CE5EF /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B98F6E2018E0F600555E27 /* hustle-on.wav in Resources */,
 				043617A72018C353008CE5EF /* LaunchScreen.storyboard in Resources */,
 				043617A42018C353008CE5EF /* Assets.xcassets in Resources */,
 				043617A22018C353008CE5EF /* Main.storyboard in Resources */,
